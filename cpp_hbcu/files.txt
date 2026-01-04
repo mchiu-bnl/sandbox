@@ -1,0 +1,4 @@
+/phenix/u/chiu/harddisk/taxi/Run10AuAu200MinBias/15457/data/310378.root
+/phenix/u/chiu/harddisk/taxi/Run10AuAu200MinBias/15457/data/310379.root
+/phenix/u/chiu/harddisk/taxi/Run10AuAu200MinBias/15457/data/310380.root
+/phenix/u/chiu/harddisk/taxi/Run10AuAu200MinBias/15457/data/310381.root
